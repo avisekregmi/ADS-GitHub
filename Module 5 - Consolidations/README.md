@@ -1,8 +1,6 @@
 # Module 5 - Consolidations
 
-# Session Overview
-
-In this session, I will be randomly assigned to a course colleague. Your colleague will discuss her/his notebook(s) from the Module 3 project with me. Following that, she/he will present her/his idea for a final CAS project. Next our roles will be switched.
+In this module, I will be randomly assigned to a course colleague. Your colleague will discuss her/his notebook(s) from the Module 3 project with me. Following that, she/he will present her/his idea for a final CAS project. Next our roles will be switched.
 
 ## Article Discussion
 
