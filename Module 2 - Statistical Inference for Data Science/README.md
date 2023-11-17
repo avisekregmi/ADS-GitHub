@@ -1,4 +1,4 @@
-# Data Science: Understanding Numbers for Smart Decisions
+# Module 2 - Statistical Inference for Data Science
 
 ## Overview
 This section is all about using numbers to make smart decisions. We will cover four important elements: Descriptive Statistics, Probability, Regression (predicting stuff), and Hypothesis Testing.
